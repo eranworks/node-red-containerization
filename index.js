@@ -8,7 +8,7 @@ const settings = {
     httpAdminRoot:"/editor",
     httpNodeRoot: "/",
     userDir:"./",
-    flowFilePretty: false,
+    flowFilePretty: true,
     flowFile: "flows.json",
     credentialSecret: '(get this from keystore)',
     disableEditor: false,
