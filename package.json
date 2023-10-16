@@ -1,0 +1,16 @@
+{
+  "name": "red-containerization",
+  "version": "0.0.1",
+  "description": "sample repo for creating customized node red images",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "node-red",
+    "docker"
+  ],
+  "author": "eranworks @erhansiraci",
+  "license": "ISC"
+}
