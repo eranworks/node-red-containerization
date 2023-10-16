@@ -11,6 +11,9 @@
     "node-red",
     "docker"
   ],
+  "dependencies": {
+    "node-red": "*"
+  },
   "author": "eranworks @erhansiraci",
   "license": "ISC"
 }
